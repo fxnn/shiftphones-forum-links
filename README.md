@@ -10,6 +10,7 @@ Interessante Posts auf https://forum.shiftphones.com
 ## Versionen
 
 * [SHIFT5ME.SOS.1.1.G.20190510](https://forum.shiftphones.com/threads/ota-update-shift5me-sos-1-1-g-20190510.2058/)
+* [SHIFT5ME.SOS.1.1.G.20190823](https://forum.shiftphones.com/threads/shift5me-sos-1-1-g-20190823.2236/)
 
 ## Probleme
 
